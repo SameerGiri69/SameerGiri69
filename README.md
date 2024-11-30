@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **React Typescript , C#**
 
-- 📫 How to reach me **sameergiri153000@gmail.com**
+- 📫 Reach me here: **sameergiri153000@gmail.com**
 
-- ⚡ Fun fact **I think i am autistic**
+
 
  <p align="center"> <img src="https://komarev.com/ghpvc/?username=SameerGiri69&color=800099&style=for-the-badge" alt="sameergiri" /> </p>
 
